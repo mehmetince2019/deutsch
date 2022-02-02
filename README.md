@@ -1,11 +1,9 @@
 # deutsch
 Lern Deutsch mühelos
 
-nasıl kullanılacak 
+bu sstem/sayfa nasıl kullanılacak ? 
 
-footer a tüm dosya ankiden kopyalanacak 
-html olarak 
+admin sık sık anki deki ana dosyayı buraya yani bu sayfanın footer ına tüm dosya ankiden kopyalayacak .. html olarak 
 
-öneride bulunmak isteyen ler pull request kısmını kullanacak 
-
+öneride bulunmak isteyenler "pull request" kısmını kullanacak 
 buradan önerisini yazacak 
