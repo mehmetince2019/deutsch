@@ -1,4 +1,4 @@
-# deutsch
+# B2 Wortschatz
 
 bu sitem/sayfa nasıl kullanılacak ? 
 
